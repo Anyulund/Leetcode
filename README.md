@@ -1,1 +1,1 @@
-# Interview_kickstart
+# Leetcode Practice
